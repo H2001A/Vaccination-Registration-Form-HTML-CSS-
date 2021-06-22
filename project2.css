@@ -1,0 +1,97 @@
+body{
+    background-color: tomato;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-image: url(/bg.jpg);
+    color: rgb(9, 79, 100);
+}
+.button1[type="submit"]{
+    width: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgb(101, 166, 250);
+    color: rgb(43, 52, 66);
+    padding: 10px 15px;
+    border: none;
+    box-shadow: 3px 3px 3px rgba(99, 102, 99, 0.6);
+}
+.button1:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgb(79, 160, 86);
+    color:rgb(2, 43, 14);
+}
+
+.button2[type="reset"]{
+        width: 100px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        background-color: rgb(101, 166, 250);
+        color: rgb(43, 52, 66);
+        padding: 10px 15px;
+        border: none;
+        box-shadow: 3px 3px 3px rgba(99, 102, 99, 0.6);
+}
+.button2:hover{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        background-color: rgb(236, 72, 22);
+        color:rgb(109, 20, 4);
+}
+.myform{
+    display: block;
+}
+.myform input[type='text'], .myform textarea{
+    padding: 5px;
+    width: 15%;
+    color: rgb(20, 1, 20);
+    background-color: #c6eef3
+}
+.myform input[type='email'], .myform textarea{
+    padding: 5px;
+    width: 15%;
+    color: rgb(20, 1, 20);
+    background-color: #c6eef3
+}
+.title{
+    padding: 5px;
+    width: 15%;
+    color: rgb(20, 1, 20);
+    background-color: #c6eef3
+    
+}
+.myform input[type='email'], .myform textarea{
+    padding: 5px;
+    width: 15%;
+    color: rgb(20, 1, 20);
+    background-color: #c6eef3
+}
+
+.main1{
+    background-image:repeating-linear-gradient(150deg, rgb(248, 182, 41) ,rgb(252, 253, 252)30% ,rgb(36, 248, 47)   );
+    color: rgb(177, 120, 45);
+    border: 5px rgb(198, 238, 243) solid;
+
+   /* padding: 50px;
+    padding-top: 5px;
+    padding-left: 500px;
+    margin-top: 5px;
+    margin: 200px;*/
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 0;
+    margin-bottom: 35px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    height: 150px;
+    text-align: center;
+}
+.welcome{
+    color: rgb(47, 173, 231);
+}
+
+
+
+
+        
